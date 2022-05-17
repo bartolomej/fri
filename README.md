@@ -20,3 +20,4 @@ Notes and assignments for my studies at Faculty of Computer and Information Scie
 - [Soundverse - Interactive Music Experience](https://github.com/bartolomej/soundverse)
 - [Network Hacks - Few simple network utility scripts](https://github.com/bartolomej/network-hacks)
 - [Data Mining final project](https://github.com/bartolomej/PR22_BK_LG_NS)
+- [Movie recommendation system](https://github.com/bartolomej/movies2watch)
