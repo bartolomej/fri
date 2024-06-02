@@ -16,6 +16,8 @@ Notes and assignments for my studies at Faculty of Computer and Information Scie
 ## Projects
 - [Bezier Curves Playground](https://github.com/bartolomej/bezier-playground)
 - [Ralc - Programmable Calculator](https://github.com/bartolomej/ralc)
+- [Pins24 - Programming language compiler](https://github.com/bartolomej/pins24)
+- [Escape The Castle - 3D game built in WebGL2](https://github.com/bartolomej/escape-the-castle)
 - [Quadtree Collision algorithm visualization](https://github.com/bartolomej/quadtree-collision)
 - [Soundverse - Interactive Music Experience](https://github.com/bartolomej/soundverse)
 - [Network Hacks - Few simple network utility scripts](https://github.com/bartolomej/network-hacks)
